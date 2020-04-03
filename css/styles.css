@@ -1,0 +1,21 @@
+.left {
+  float: left
+}
+
+.right {
+  float: right
+}
+
+h1 {
+  text-align: center;
+}
+.clearfix::after {
+  content: "";
+  clear: both;
+  display: table;
+}
+
+.quotes {
+  float: left;
+  width: 33.33%; 
+}
