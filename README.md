@@ -1,7 +1,5 @@
 # Vacation
 
-# My Favorite Band
-
 ## Description
 
 A page about a cool place to visit, but not live. 
